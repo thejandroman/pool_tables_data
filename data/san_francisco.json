@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Blackthorn",
+        "type": "Bar",
+        "address": "834 Irving Street, San Francisco, CA 94122",
+        "neighborhood": "Inner Sunset",
+        "no_tables": 2,
+        "price": "$1.00/game",
+        "latitude": 37.7577,
+        "longitude": -122.4376
+    },
+    {
+        "name": "Mucky Duck",
+        "type": "Bar",
+        "address": "1315 9th Avenue, San Francisco, CA 94122",
+        "neighborhood": "Inner Sunset",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Chug Pub",
+        "type": "Bar",
+        "address": "1849 Lincoln Way, San Francisco, CA 94122",
+        "neighborhood": "Outer Sunset",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Silver Spur",
+        "type": "Bar",
+        "address": "1914 Irving St, San Francisco, CA 94122",
+        "neighborhood": "Outer Sunset",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "The Corner Spot",
+        "type": "Bar",
+        "address": "1368 Irving St, San Francisco, CA 94122",
+        "neighborhood": "Inner Sunset",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Pittsburg's Pub",
+        "type": "Bar",
+        "address": "4207 Judah St, San Francisco, CA 94122",
+        "neighborhood": "Outer Sunset",
+        "no_tables": 2,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Boomerang Cocktail Lounge",
+        "type": "Bar",
+        "address": "1430 Noriega St, San Francisco, CA 94122",
+        "neighborhood": "Outer Sunset",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "OneUp Bar",
+        "type": "Bar",
+        "address": "1232 Noriega St, San Francisco, CA 94122",
+        "neighborhood": "Outer Sunset",
+        "no_tables": 2,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Grandma's Saloon",
+        "type": "Bar",
+        "address": "1016 Taraval St, San Francisco, CA 94116",
+        "neighborhood": "Parkside",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "540 Club",
+        "type": "Bar",
+        "address": "540 Clement St, San Francisco, CA 94118",
+        "neighborhood": "Inner Richmond",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Fizzee's",
+        "type": "Bar",
+        "address": "3954 Geary Blvd, San Francisco, CA 94118",
+        "neighborhood": "Inner Richmond",
+        "no_tables": 2,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Thieves Tavern",
+        "type": "Bar",
+        "address": "496 14th St, San Francisco, CA 94103",
+        "neighborhood": "Mission",
+        "no_tables": 2,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Dovre Club",
+        "type": "Bar",
+        "address": "1498 Valencia St, San Francisco, CA 94110",
+        "neighborhood": "Mission",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Wreck Room",
+        "type": "Bar",
+        "address": "1390 California St, San Francisco, CA 94109",
+        "neighborhood": "Nob Hill",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Happy Lounge",
+        "type": "Bar",
+        "address": "3745 Geary Blvd, San Francisco, CA 94118",
+        "neighborhood": "Inner Richmond",
+        "no_tables": 1,
+        "price": "$1.00/game"
+    },
+    {
+        "name": "Park 77",
+        "type": "Bar",
+        "address": "77 Cambon Dr, San Francisco, CA 94132",
+        "neighborhood": "Lakeshore",
+        "no_tables": 4,
+        "price": "$1.00/game"
+    }
+]
