@@ -128,5 +128,13 @@
         "neighborhood": "Lakeshore",
         "no_tables": 4,
         "price": "$1.00/game"
+    },
+    {
+        "name": "Route 101",
+        "type": "Bar",
+        "address": "1332 Van Ness Ave, San Francisco, CA 94109",
+        "neighborhood": "Tenderloin",
+        "no_tables": 2,
+        "price": "$1.00/game"
     }
 ]
