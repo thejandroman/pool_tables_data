@@ -1,1 +1,4 @@
 node_modules/
+dist/assets/css
+dist/pool.bundle.js
+dist/map.bundle.js
