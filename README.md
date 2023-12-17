@@ -1,6 +1,8 @@
 # Pool Tables Data
 Contains JSON data for pool tables in different cities.
 
+![Home page](screenshot.png)
+
 ## local dev
 
 1. Install node (see `.node-version`)
