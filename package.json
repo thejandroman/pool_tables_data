@@ -3,7 +3,8 @@
   "version": "0.2.0",
   "private": true,
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "serve": "npx http-server dist"
   },
   "dependencies": {
     "bootstrap": "~3.3.1",
