@@ -1,3 +1,9 @@
+import "jquery";
+import "bootstrap";
+import "bootstrap-table/dist/bootstrap-table.min.js";
+import "bootstrap-table/dist/locale/bootstrap-table-en-US.min.js";
+import GMaps from "gmaps/gmaps.min.js";
+
 function addMarker(options, map) {
   map.addMarker(options);
 }
